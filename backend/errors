@@ -1,0 +1,2 @@
+Error: 1 : ModuleNotFoundError: No module named 'distutils'
+soln 1: pip install setuptools
